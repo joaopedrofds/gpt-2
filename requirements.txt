@@ -1,0 +1,3 @@
+torch>=2.2
+tiktoken
+transformers   # apenas para GPT.from_pretrained (pesos oficiais)

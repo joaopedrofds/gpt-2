@@ -1,0 +1,4 @@
+ckpt.pt
+input.txt
+__pycache__/
+*.pyc
