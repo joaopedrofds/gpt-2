@@ -1,8 +1,4 @@
-RELATÓRIO: IMPLEMENTAÇÃO DO GPT-2 (124M) EM PYTORCH
 
-Aluno: [seu nome]
-Disciplina: [disciplina]
-Data: [data]
 Vídeo de referência: Let's reproduce GPT-2 (124M), Andrej Karpathy (https://youtu.be/l8pRSuU81PU)
 
 
